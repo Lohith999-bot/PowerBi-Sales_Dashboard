@@ -1,2 +1,2 @@
 # PowerBi-Sales_Dashboard
-Interactive dashboard of cleaned dataset
+Interactive dashboard of dataset which was cleaned using power query editor
